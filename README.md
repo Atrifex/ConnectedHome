@@ -1,0 +1,2 @@
+# ConnectedHome
+An IoT project.
