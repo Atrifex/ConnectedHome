@@ -1,0 +1,5 @@
+AuthUserFile "/etc/apache2/.htpasswd"
+AuthGroupFile /dev/null
+AuthName "Protected Files"
+AuthType Basic
+require valid-user
